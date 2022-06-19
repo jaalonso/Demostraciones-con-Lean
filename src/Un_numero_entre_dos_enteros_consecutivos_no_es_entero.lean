@@ -4,7 +4,7 @@
 -- Sevilla, 10 de agosto de 2021
 -- ---------------------------------------------------------------------
 
-import algebra.ordered_ring
+import algebra.order.ring
 import data.int.cast
 
 lemma num_btw_integers_not_integer

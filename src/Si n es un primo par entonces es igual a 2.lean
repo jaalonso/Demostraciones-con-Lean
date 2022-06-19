@@ -6,7 +6,7 @@ open nat
 lemma eq_two_of_prime_and_even
   {n : ℕ}
   (hn : even n)
-  (hn' : prime n)
+  (hn' : nat.prime n)
   : n = 2 :=
 begin
   symmetry,
@@ -20,7 +20,7 @@ end
 lemma eq_two_of_prime_and_even2
   (n : ℕ)
   (hn : even n)
-  (hn' : prime n)
+  (hn' : nat.prime n)
   : n = 2 :=
 begin
   contrapose! hn,

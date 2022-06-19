@@ -1,5 +1,4 @@
-import tactic
-import group_theory.subgroup
+import group_theory.subgroup.basic
 
 -- 1ª demostración
 example

@@ -162,9 +162,6 @@ foros, fundamentalmente en [[https://leanprover.zulipchat.com][Zulip]].
 + [[./src/Si n es un primo par entonces es igual a 2.lean][Si n es un primo par, entonces es igual a 2]]
 #+INCLUDE: "./src/Si_n_es_un_primo_par_entonces_es_igual_a_2.lean" src lean
 
-+ [[./src/Primo con sucesor primo.lean][Primo con sucesor primo]]
-#+INCLUDE: "./src/Primo_con_sucesor_primo.lean" src lean
-
 + [[./src/Desigualdad_de_naturales.lean][Desigualdad de naturales]]
 #+INCLUDE: "./src/Desigualdad_de_naturales.lean" src lean
 
@@ -185,9 +182,6 @@ foros, fundamentalmente en [[https://leanprover.zulipchat.com][Zulip]].
 
 + [[./src/Coprimo_con_potencia_de_primo.lean][Coprimo con potencia de primo]]
 #+INCLUDE: "./src/Coprimo_con_potencia_de_primo.lean" src lean
-
-+ [[./src/Suma_mas_factorial_menor_factorial_suma.lean][Suma más factorial menor factorial suma]]
-#+INCLUDE: "./src/Suma_mas_factorial_menor_factorial_suma.lean" src lean
 
 + [[./src/Divisibilidad_por_tres.lean][Divisibilidad por tres]]
 #+INCLUDE: "./src/Divisibilidad_por_tres.lean" src lean

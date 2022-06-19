@@ -2,7 +2,7 @@
 -- ====================
 
 import tactic
-import algebra.ordered_ring
+import algebra.order.ring
 
 theorem ex_1_3_5
   {α}

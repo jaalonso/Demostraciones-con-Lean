@@ -16,7 +16,7 @@ def ith_prime : ℕ → ℕ
 def find_prime : ℕ → ℕ → ℕ
 | 0 n     := 0
 | (i+1) n := by haveI := decidable_prime_1 n;
-                exact if prime n then n else find_prime i (n+1)
+                exact if nat.prime n then n else find_prime i (n+1)
 
 def ith_prime2 : ℕ → ℕ
 | 0 := 2

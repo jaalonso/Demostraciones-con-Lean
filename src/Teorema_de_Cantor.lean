@@ -5,7 +5,7 @@
 -- ---------------------------------------------------------------------
 
 import data.set.basic
-import set_theory.cardinal
+import set_theory.cardinal.basic
 
 open set
 
