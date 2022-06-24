@@ -1,6 +1,6 @@
 #+TITLE: Demostraciones con Lean
 #+OPTIONS: num:t
-
+ 
 En este repositorio se recopilan demostraciones con Lean publicadas en
 foros, fundamentalmente en [[https://leanprover.zulipchat.com][Zulip]].
 
