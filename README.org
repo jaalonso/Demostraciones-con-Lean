@@ -99,6 +99,9 @@ foros, fundamentalmente en [[https://leanprover.zulipchat.com][Zulip]].
 + [[./src/Demostracion_constructiva_de_tautologia.lean][Demostración constructiva de tautología]]
 #+INCLUDE: "./src/Demostracion_constructiva_de_tautologia.lean" src lean
 
++ [[./src/Demostracion_sin_logica_clasica.lean][Demostración sin lógica clasica]]
+#+INCLUDE: "./src/Demostracion_sin_logica_clasica.lean" src lean
+
 * Teoría de conjuntos
 
 + [[./src/Distributiva_de_la_union_sobre_la_interseccion.lean][Distributiva de la unión sobre la intersección]]
@@ -136,6 +139,9 @@ foros, fundamentalmente en [[https://leanprover.zulipchat.com][Zulip]].
 
 + [[./src/Teorema_de_Cantor.lean][Teorema de Cantor]]
 #+INCLUDE: "./src/Teorema_de_Cantor.lean" src lean
+
++ [[./src/Propiedades_de_la_diferencia_simetrica.lean][Propiedades de la diferencia simétrica]]
+#+INCLUDE: "./src/Propiedades_de_la_diferencia_simetrica.lean" src lean
 
 * Funciones
 
